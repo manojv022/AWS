@@ -35,7 +35,7 @@
 
 
 
-**$${\color{red} compute Services}$$:**
+**$${\color{red} compute Services}:$$**
 
 **1. Amazon EC2 (Elastic Compute Cloud):** Virtual servers in the cloud.
 
@@ -47,19 +47,19 @@
 
 **2. Amazon EBS (Elastic Block Store):** Block storage volumes for use with EC2 instances.
 
-**$${\color{blue} Database Services}$$:**
+**$${\color{blue} Database Services}:$$**
 
 **1. Amazon RDS (Relational Database Service):** Managed relational databases (MySQL, PostgreSQL, Oracle, etc.).
 
 **2. Amazon DynamoDB:** Fully managed NoSQL database service.
 
-**$${\color{blue} Networking Services}$$:**
+**$${\color{blue} Networking Services}:$$**
 
 **1. Amazon VPC (Virtual Private Cloud):** Virtual network service for logically isolating AWS resources.
 
 **2. Amazon Route 53:** Scalable DNS (Domain Name System) web service.
 
-**$${\color{blue} Security and Identity Services}$$**
+**$${\color{blue} Security and Identity Services}:$$**
 
 **1. AWS IAM (Identity and Access Management):** Manage access to AWS services and resources securely.
 
