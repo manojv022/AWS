@@ -64,3 +64,9 @@
 **1. AWS IAM (Identity and Access Management):** Manage access to AWS services and resources securely.
 
 **2. AWS KMS (Key Management Service):** Manage cryptographic keys for your AWS services.
+
+**$${\color{blue} Management and Governance Services}:$$**
+
+**1. AWS CloudFormation:** Automated provisioning of AWS resources.
+
+**2. AWS CloudWatch:** Monitoring and observability service.
