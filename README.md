@@ -1,4 +1,4 @@
-# $${\color{darkgreen} AWS}$$
+# $${\color{green} AWS}$$
 
 
 **$${\color{red} Services}$$:**
