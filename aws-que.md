@@ -81,7 +81,7 @@
 58. What is AWS X-Ray?
 59. How do you manage secrets in AWS?
 60. Explain AWS Systems Manager.
-
+-------------------------------------------------------------
 - Advanced Level
 61. What is the difference between horizontal and vertical scaling in AWS?
 62. How does AWS Lambda handle cold starts?
