@@ -12,3 +12,6 @@
 ### Auto Scaling:
 
 ![image](https://github.com/user-attachments/assets/cacb800f-ef29-4bea-a2bb-f8e7c34fced6)
+
+
+![image](https://github.com/user-attachments/assets/474f01ff-dc70-4817-a396-cdca6d706379)
