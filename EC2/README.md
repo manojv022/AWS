@@ -7,3 +7,8 @@
 
 ### Storage:
 ![image](https://github.com/user-attachments/assets/2ce4cb17-4cc1-46a6-afe9-243bb94eb00a)
+
+
+### Auto Scaling:
+
+![image](https://github.com/user-attachments/assets/cacb800f-ef29-4bea-a2bb-f8e7c34fced6)
