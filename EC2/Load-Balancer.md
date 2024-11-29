@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/dd791ef7-2ac4-4dff-979e-be25f97d24b5)
+
+
 ***AWS Load Balancer interview Question***
 
 
