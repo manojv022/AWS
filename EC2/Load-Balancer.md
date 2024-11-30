@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/dd791ef7-2ac4-4dff-979e-be25f97d24b5)
+![image](https://github.com/user-attachments/assets/dd791ef7-2ac4-4dff-979e-be25f97d24b5)  ||  ![image](https://github.com/user-attachments/assets/5ec2c7dd-91c0-41c2-be60-56887f2d76e4)
+
 
 
 ***AWS Load Balancer interview Question***
