@@ -22,3 +22,8 @@ A setting for records that determines how Route 53 responds to DNS queries. Rout
 
 ### Health Check:
 ![image](https://github.com/user-attachments/assets/e559942b-5ebe-4dc8-87b9-7e28ec8d628e)
+
+
+### Route 53 Resolver:
+![image](https://github.com/user-attachments/assets/65acf6e4-6a72-4721-b77d-38adf899b097)
+
